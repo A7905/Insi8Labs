@@ -33,3 +33,4 @@ uploads/
 
 # Optional: lock files you don't want to commit
 # package-lock.json
+backend/node_modules/
